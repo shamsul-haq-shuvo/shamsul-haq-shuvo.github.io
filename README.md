@@ -2,7 +2,8 @@
 
 ## About Me
 
-Hello, I'm [Your Name], a passionate [Your Profession/Title] based in [Your Location]. I love to [Brief Description of Your Interests or Expertise].
+Hello, I'm Shamsul Haq Shuvo, a undergrad student at Islamic University of Technology - IUT (OIC); completing BSc in Electrical and Electronic Engineering. I am a tech enthusiast seeking for a career in the tech industry.
+
 
 ## Projects
 
