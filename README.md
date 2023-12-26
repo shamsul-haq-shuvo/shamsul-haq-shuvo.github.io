@@ -6,10 +6,10 @@ Hello, I'm Shamsul Haq Shuvo, a undergrad student at [Islamic University of Tech
 
 
 ## ECA & Experience
-- Sub Executive (Operation) at IUT Robotics Society
-- Electrical Sub Team of Project Altair
-- Creative team of IUT Photographic Society (IUTPS)
-- Creative team of IUT Career and Business Society (CBS)
+- Sub Executive (Operation) at [IUT Robotics Society](https://www.facebook.com/profile.php?id=61550634090480)
+- Electrical Sub Team of [Project Altair](https://www.facebook.com/profile.php?id=100091653648858)
+- Creative team of IUT [Photographic Society (IUTPS)](https://www.facebook.com/IUTPS)
+- Creative team of [IUT Career and Business Society (CBS)](https://www.facebook.com/iut.cbs)
 - Former Scout at Bogra Zilla School Scout Team
 - Event Management (Pronoia, Break The Circle S11, Artisaan 
 Adda, Robotalk Wedding, Sports day event)
