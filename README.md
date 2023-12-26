@@ -2,53 +2,60 @@
 
 ## About Me
 
-Hello, I'm Shamsul Haq Shuvo, a undergrad student at Islamic University of Technology - IUT (OIC); completing BSc in Electrical and Electronic Engineering. I am a tech enthusiast seeking for a career in the tech industry.
+Hello, I'm Shamsul Haq Shuvo, a undergrad student at [Islamic University of Technology - IUT (OIC)](https://www.iutoic-dhaka.edu/); completing BSc in Electrical and Electronic Engineering. I am a tech enthusiast seeking for a career in the tech industry.
 
 
-## Projects
+## ECA & Experience
+- Sub Executive (Operation) at IUT Robotics Society
+- Electrical Sub Team of Project Altair
+- Creative team of IUT Photographic Society (IUTPS)
+- Creative team of IUT Career and Business Society (CBS)
+- Former Scout at Bogra Zilla School Scout Team
+- Event Management (Pronoia, Break The Circle S11, Artisaan 
+Adda, Robotalk Wedding, Sports day event)
+- Photography & Designing (Photoshop & Illustrator)
+- Case Competition(Idea generation and PowerPoint
+Presentation)
+- Soccer-bot competition (AUST Mechcellence, Mindsparks)
 
-### Project 1: [Project Name]
-
-- Description: Brief description of the project.
-- Technologies: List of technologies used.
-- Link: [Link to the project/repository]
-
-### Project 2: [Project Name]
-
-- Description: Brief description of the project.
-- Technologies: List of technologies used.
-- Link: [Link to the project/repository]
-
-### Project 3: [Project Name]
-
-- Description: Brief description of the project.
-- Technologies: List of technologies used.
-- Link: [Link to the project/repository]
 
 ## Skills
 
-- Programming Languages: [List of Languages]
-- Frameworks: [List of Frameworks]
-- Tools: [List of Tools]
-- Other Skills: [List of other relevant skills]
+- Programming Languages: C, Python
+- Engineering Analytic Software: MATLAB, PSPICE, ORCAD, 
+PROTEUS, PSIM
+- Application packages: MS word, 
+MS Excel, MS Power Point, Adobe 
+Photoshop and Illustrator
+- Team Work & Leadership (Scout)
+- Management & Communication
 
 ## Education
 
-- [Degree Earned] in [Field of Study] - [University Name], Year Graduated
+- Bachelor of Science: Electrical and Electronic Engineering (2nd year) (OIC-Partial Scholarship)
+Islamic University of Technology, Dhaka, Bangladesh
+
+- HSC: GPA-5.00 Science(2021) (Board Scholarship)
+Govt Azizul Haque College, Bogura
+
+- SSC: GPA-5.00 Science(2019)
+Bogra Zilla School, Bogura
 
 ## Contact
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio Website: [Link to Your Portfolio Website]
+- Phone: +8801318-643380
+- shamsul.haq.shuvo@gmail.com
+- LinkedIn: linkedin.com/in/shamsul-haq-shuvo
+- Portfolio Website: will link it later
 
 ## Certifications
 
-- [Certification Name] - [Issuing Organization], Year Earned
+- Lumina 2023 (Course on photography)
+- AUST Mechcellence, Mindsparks (Soccer-bot event)
+- Tech Trends for Advancing Bangladesh (GP Academy)
+- Volunteer at BlockChain Oylmpiad Bangladesh
+- Educational Certificate: HSC, SSC, JSC
 
-## Awards and Recognitions
-
-- [Award/Recognition Name] - [Issuing Organization], Year Received
 
 ## Blog
 
